@@ -1,4 +1,5 @@
 import numpy as np
+import os
 
 def maybe_download(filename, expected_bytes):
     """

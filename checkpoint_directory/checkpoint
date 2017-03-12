@@ -1,0 +1,6 @@
+model_checkpoint_path: "basic_seq2seq-45001"
+all_model_checkpoint_paths: "basic_seq2seq-41001"
+all_model_checkpoint_paths: "basic_seq2seq-42001"
+all_model_checkpoint_paths: "basic_seq2seq-43001"
+all_model_checkpoint_paths: "basic_seq2seq-44001"
+all_model_checkpoint_paths: "basic_seq2seq-45001"
